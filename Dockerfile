@@ -7,6 +7,8 @@ RUN pip install wget
 RUN curl "https://bootstrap.pypa.io/get-pip.py" -o "get-pip.py"
 RUN python get-pip.py
 RUN pip install awscli
-ADD app.py .
-ADD files.txt .
-CMD /usr/local/bin/app.sh
+WORKDIR /app
+ADD app.py app.py
+ADD script.sh script.sh
+CMD ["bash", "script.sh"]
+

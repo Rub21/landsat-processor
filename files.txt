@@ -1,3 +1,0 @@
-https://s3-us-west-2.amazonaws.com/ds-satellite-projects/historic-risk-explorer/moz-2015/LC81670722014347LGN00/LC81670722014347LGN00_B2.TIF
-https://s3-us-west-2.amazonaws.com/ds-satellite-projects/historic-risk-explorer/moz-2015/LC81670722014347LGN00/LC81670722014347LGN00_B3.TIF
-https://s3-us-west-2.amazonaws.com/ds-satellite-projects/historic-risk-explorer/moz-2015/LC81670722014347LGN00/LC81670722014347LGN00_B4.TIF
