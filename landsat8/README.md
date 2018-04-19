@@ -13,6 +13,7 @@ Example:
 docker build -t ls8-procesor .
 docker run -e SCENEID=LC81670722015046LGN00 -it ls8-procesor
 #docker run  -e SCENEID=LC81670722015046LGN00 -it ls8-procesor /bin/bash
+#docker run  -e SCENEID=LC81670722014347LGN00 -it ls8-procesor /bin/bash
 
 
 ```
