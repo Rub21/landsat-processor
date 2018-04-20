@@ -38,3 +38,5 @@ docker ps
 docker cp <idcontainer>:/app/$SCENEID.tif .
 
 ```
+
+![image](https://user-images.githubusercontent.com/1152236/39069496-8cc8fd4c-44a5-11e8-8ee1-716e247470fb.png)

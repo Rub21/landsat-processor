@@ -1,5 +1,4 @@
-python download.py $SCENEID
-## Process the imagen
-# python app.py $SCENEID
-# Upload to AWS
-#TODO
+python app.py $SCENEID
+
+
+### Upload to s3

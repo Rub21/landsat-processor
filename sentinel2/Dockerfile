@@ -9,6 +9,5 @@ RUN pip install awscli
 WORKDIR /app
 ADD app.py app.py
 ADD script.sh script.sh
-ADD download.py download.py
 CMD ["bash", "script.sh"]
 
